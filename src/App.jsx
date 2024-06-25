@@ -11,7 +11,7 @@ function App() {
         <Curly color='black' />
       </div>
       <div className='wrp-2'>
-        <Curly color='black' />
+        <Curly color='red' />
       </div>
     </>
   )
