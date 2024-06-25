@@ -41,11 +41,9 @@
   transform: translateY(35%);
 }
 .curly-right {
-  margin-left: -2px;
+  margin-left: -4px;
 }
-.curly-left {
-  margin-left: -2px;
-}
+
 .curly-right-up {
   height: 100%;
   width: 100%;
