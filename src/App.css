@@ -4,7 +4,15 @@
 }
 
 .wrp {
+  width: 800px;
+  margin: 100px auto;
+}
+.wrp-1 {
   width: 500px;
+  margin: 100px auto;
+}
+.wrp-2 {
+  width: 300px;
   margin: 100px auto;
 }
 
